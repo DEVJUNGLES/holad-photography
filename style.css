@@ -18,7 +18,7 @@ main {
 .landing-text {
   display: flex;
   flex: 01 40vw;
-  height: 50vh;
+  height: 50dvh;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -59,7 +59,7 @@ h2 {
 }
 .landing-image {
   background-image: url(./img/michael-henry-5OyGRn_r9Y4-unsplash.jpg);
-  height: 50vh;
+  height: 50dvh;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
